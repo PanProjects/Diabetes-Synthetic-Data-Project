@@ -9,14 +9,6 @@ This project explores the use of **synthetic medical data generation** technique
 
 ---
 
-## 👥 Team Members
-
-- **Member 1:** Panteleimon Naoum  
-- **Member 2:** Andreas Gkanas  
-- **Member 3:** Kerkyra Dimitisianou  
-
----
-
 ## 🧭 Research Axis
 
 **Synthetic Medical Data Generation: Opportunities and Challenges for GenAI-Based Augmentation (Axis 5)**
