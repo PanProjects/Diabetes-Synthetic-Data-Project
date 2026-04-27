@@ -1,1 +1,2 @@
 dataset/cleaned/diabetes_012_health_indicators_BRFSS2015.csv
+models/ctgan_model.pkl
